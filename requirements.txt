@@ -1,0 +1,7 @@
+notebook
+streamlit
+langchain
+PyPDF2
+python-dotenv
+openai
+tiktoken
